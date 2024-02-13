@@ -1,5 +1,15 @@
-## Webpack 5 Bolier plate with javascript
+# 🚀 Welcome to your new awesome project!
 
-set up ecma script(javascript) development, production environment with webpack5 version.
+This project has been created using **webpack-cli**, you can now run
 
-furthermore, i plan to create a react development environment and apply typescript and micro frontend in the future.
+```
+npm run build
+```
+
+or
+
+```
+yarn build
+```
+
+to bundle your application
